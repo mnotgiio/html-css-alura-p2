@@ -44,7 +44,14 @@ nav a {
 }
 
 .produtos-descricao {
-    font-size: 18px
+    font-size: 18px;
+}
+
+.produtos-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin top: 10px;
+}
      
      
      
